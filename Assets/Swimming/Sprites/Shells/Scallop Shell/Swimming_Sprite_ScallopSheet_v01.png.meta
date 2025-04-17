@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7fe2c54d9cdc4a34eab1aee10a51f923
+guid: be92c47b3399c7c4aa25d7237a9b8eb0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 1000
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,148 +97,190 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Swimming_Sprite_PearlSheet_v01_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1920
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b8466927b8436548b7b707ace3233c2
-      internalID: -223573755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Swimming_Sprite_PearlSheet_v01_1
-      rect:
-        serializedVersion: 2
-        x: 1920
-        y: 1920
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ba9c79de5cd7a847a2fc8df6d01af9e
-      internalID: 495385805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Swimming_Sprite_PearlSheet_v01_2
-      rect:
-        serializedVersion: 2
-        x: 3840
-        y: 1920
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97a38217ac02ede4eaae4eab9f46130e
-      internalID: -1889441456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Swimming_Sprite_PearlSheet_v01_3
-      rect:
-        serializedVersion: 2
-        x: 5760
-        y: 1920
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3165d6a377e80c74a92cee9f956d3742
-      internalID: 1838207883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Swimming_Sprite_PearlSheet_v01_4
-      rect:
-        serializedVersion: 2
-        x: 7680
-        y: 1920
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b7729d43a185b0240a6fa380e4e48edc
-      internalID: -804947837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Swimming_Sprite_PearlSheet_v01_5
+      name: Swimming_Sprite_ScallopSheet_v01_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1920
+        width: 1539
+        height: 2048
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 708b082642834b1409fa28499d3bc014
-      internalID: 2084166110
+      spriteID: bc2515655b0794748835432cd9266211
+      internalID: -538384145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Swimming_Sprite_PearlSheet_v01_6
+      name: Swimming_Sprite_ScallopSheet_v01_1
       rect:
         serializedVersion: 2
-        x: 1920
+        x: 1845
         y: 0
-        width: 1920
-        height: 1920
+        width: 1539
+        height: 2048
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bb101c7e54d7bf4eba61b196143886e
-      internalID: 210300723
+      spriteID: e001c31cece2861478f491f1b7331fa6
+      internalID: 1360738280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swimming_Sprite_ScallopSheet_v01_2
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 0
+        width: 1539
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4363ae9c8aa902343a9be616bc57a4f5
+      internalID: 655896952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swimming_Sprite_ScallopSheet_v01_3
+      rect:
+        serializedVersion: 2
+        x: 5564
+        y: 0
+        width: 1539
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b20cac63aefc84985b30a128ff287c
+      internalID: 347016481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swimming_Sprite_ScallopSheet_v01_4
+      rect:
+        serializedVersion: 2
+        x: 7419
+        y: 0
+        width: 1539
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc2ee0c481cc5147a5eaad684d2bf4f
+      internalID: -1646183075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swimming_Sprite_ScallopSheet_v01_5
+      rect:
+        serializedVersion: 2
+        x: 9288
+        y: 0
+        width: 1539
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1085a7cc33660f479d4862fa871c06f
+      internalID: 943073902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swimming_Sprite_ScallopSheet_v01_6
+      rect:
+        serializedVersion: 2
+        x: 11142
+        y: 0
+        width: 1539
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c43e5db1917024fb3896d791feac22
+      internalID: -324816910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swimming_Sprite_ScallopSheet_v01_7
+      rect:
+        serializedVersion: 2
+        x: 12997
+        y: 0
+        width: 1539
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f72309897c1b51439c2af52beb8073d
+      internalID: -1326523158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swimming_Sprite_ScallopSheet_v01_8
+      rect:
+        serializedVersion: 2
+        x: 14845
+        y: 0
+        width: 1539
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d5df4af81120f468f915e2a3b8f962
+      internalID: -324824870
       vertices: []
       indices: 
       edges: []
@@ -246,7 +288,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4094a7d43dd55094e8ac1f99b6aceca0
+    spriteID: 96a9023ba8aaf064788952a1f77b616a
     internalID: 0
     vertices: []
     indices: 
@@ -254,13 +296,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Swimming_Sprite_PearlSheet_v01_0: -223573755
-      Swimming_Sprite_PearlSheet_v01_1: 495385805
-      Swimming_Sprite_PearlSheet_v01_2: -1889441456
-      Swimming_Sprite_PearlSheet_v01_3: 1838207883
-      Swimming_Sprite_PearlSheet_v01_4: -804947837
-      Swimming_Sprite_PearlSheet_v01_5: 2084166110
-      Swimming_Sprite_PearlSheet_v01_6: 210300723
+      Swimming_Sprite_ScallopSheet_v01_0: -538384145
+      Swimming_Sprite_ScallopSheet_v01_1: 1360738280
+      Swimming_Sprite_ScallopSheet_v01_2: 655896952
+      Swimming_Sprite_ScallopSheet_v01_3: 347016481
+      Swimming_Sprite_ScallopSheet_v01_4: -1646183075
+      Swimming_Sprite_ScallopSheet_v01_5: 943073902
+      Swimming_Sprite_ScallopSheet_v01_6: -324816910
+      Swimming_Sprite_ScallopSheet_v01_7: -1326523158
+      Swimming_Sprite_ScallopSheet_v01_8: -324824870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
